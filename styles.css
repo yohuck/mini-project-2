@@ -11,6 +11,7 @@
 
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(204, 236, 214);
 }
 
 header {
@@ -62,6 +63,9 @@ header p {
     filter: drop-shadow(0 0 5rem rgba(30,219,39,0.4));
 }
 
+code {
+    /* border: 1px solid black; */
+}
 code p {
     background: rgb(156,119,119);
 background: linear-gradient(90deg, rgba(156,119,119,1) 0%, rgba(30,219,39,0.6960556844547564) 0%, rgba(0,212,255,1) 100%);
