@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    height: 10rem;
+    min-height: 10rem;
     background: rgb(156,119,119);
     background: linear-gradient(90deg, rgba(156,119,119,1) 0%, rgba(30,219,39,0.6960556844547564) 0%, rgba(0,212,255,1) 100%);
     text-align: center;
