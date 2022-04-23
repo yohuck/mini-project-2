@@ -55,8 +55,12 @@ header p {
     flex-direction: column;
     justify-content: space-between;
     border-radius: 9px;
+    background-color: rgba(30,219,39,0.2);
 }
 
+.card:hover {
+    filter: drop-shadow(0 0 5rem rgba(30,219,39,0.4));
+}
 
 code p {
     background: rgb(156,119,119);
